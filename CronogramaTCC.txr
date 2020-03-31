@@ -1,1 +1,25 @@
 25/03 -> Leitura do artigo do sebastien até a página 13 parando no assunto lentes.
+
+30/03 ->
+	- Método para extrair Epson_r
+	-Limitar a isotropia do material para que não haja um caminho preferencial.
+	- O que é colimação ou colimar??
+	- Extrair as curvas de influência dos parâmetros como diretividade nos planos E e H:
+		-Diretividade;
+		-Abertura 3 dB;
+	-Adquar a quantidade de furos para melhorar o E_r
+	- Furos em forma de parabola ratacionadas no eixo Z.
+
+Para realizar o acesso remoto pelo TeamViewer:
+ ID: 1589008026
+ Senha: ---------- 
+ Abrir o Remmina;
+ Versão atual do projeto V5:
+ Caminho do projeto: D://Vitor/Mestrado/
+ Copiar arquivo ANSYS_VCA_TTL_V2
+ 
+ esse nome é um padrão q a gente usa no laboratorio:
+
+	software_(iniciais do seu nome)_(objeto da simulação)_(data ou versão)
+
+s
